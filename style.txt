@@ -7,7 +7,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   min-height: 100vh;
-  background: url('istockphoto-1556119299-612x612.jpg') no-repeat center center/cover;
+  background: url('mercado.jpg') no-repeat center center/cover;
   display: flex;
   flex-direction: column;
 }
